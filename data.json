@@ -1,43 +1,42 @@
 [
-    {
-      "title": "Notoriety",
-      "img": "https://tr.rbxcdn.com/180DAY-f541d21a5ab108a6ad44828982032743/768/432/Image/Webp/noFilter",
-      "link": "https://www.roblox.com/games/21532277/"
-    },
-    {
-      "title": "Volleyball Legends",
-      "img": "https://tr.rbxcdn.com/180DAY-941dc2f18ed4584676bfcc884d831833/768/432/Image/Webp/noFilter",
-      "link": "https://www.roblox.com/games/73956553001240/"
-    },
-    {
-      "title": "Squid Game NPC",
-      "img": "https://tr.rbxcdn.com/180DAY-06e919cf9dcc014017918191ab8704b8/768/432/Image/Webp/noFilter",
-      "link": "https://www.roblox.com/games/123544926231937/"
-    },
-    {
-      "title": "Cleaning Simulator",
-      "img": "https://tr.rbxcdn.com/180DAY-3e72085ebac7c215464c753aa04cdb77/768/432/Image/Webp/noFilter",
-      "link": "https://www.roblox.com/games/818287233/"
-    },
-    {
-      "title": "Road to Grampy's",
-      "img": "https://tr.rbxcdn.com/180DAY-a7ca1b4b816986c08ab7a6f71f780bf2/150/150/Image/Webp/noFilter",
-      "link": "https://www.roblox.com/games/5796917097/"
-    },
-    {
-      "title": "FISCH",
-      "img": "https://tr.rbxcdn.com/180DAY-c61fa995b8e8814608b74b3d07f616d9/768/432/Image/Webp/noFilter",
-      "link": "https://www.roblox.com/games/16732694052/"
-    },
-    {
-      "title": "2Drugi tytuł",
-      "img": "https://via.placeholder.com/150",
-      "link": "https://example.com"
-    },
-    {
-      "title": "3Drugi tytuł",
-      "img": "https://via.placeholder.com/150",
-      "link": "https://example.com"
-    }
-  ]
-  
+  {
+    "title": "Notoriety",
+    "img": "https://tr.rbxcdn.com/180DAY-f541d21a5ab108a6ad44828982032743/768/432/Image/Webp/noFilter",
+    "link": "https://www.roblox.com/games/21532277/"
+  },
+  {
+    "title": "Volleyball Legends",
+    "img": "https://tr.rbxcdn.com/180DAY-941dc2f18ed4584676bfcc884d831833/768/432/Image/Webp/noFilter",
+    "link": "https://www.roblox.com/games/73956553001240/"
+  },
+  {
+    "title": "Squid Game NPC",
+    "img": "https://tr.rbxcdn.com/180DAY-06e919cf9dcc014017918191ab8704b8/768/432/Image/Webp/noFilter",
+    "link": "https://www.roblox.com/games/123544926231937/"
+  },
+  {
+    "title": "Cleaning Simulator",
+    "img": "https://tr.rbxcdn.com/180DAY-3e72085ebac7c215464c753aa04cdb77/768/432/Image/Webp/noFilter",
+    "link": "https://www.roblox.com/games/818287233/"
+  },
+  {
+    "title": "Road to Grampy's",
+    "img": "https://tr.rbxcdn.com/180DAY-a7ca1b4b816986c08ab7a6f71f780bf2/150/150/Image/Webp/noFilter",
+    "link": "https://www.roblox.com/games/5796917097/"
+  },
+  {
+    "title": "FISCH",
+    "img": "https://tr.rbxcdn.com/180DAY-c61fa995b8e8814608b74b3d07f616d9/768/432/Image/Webp/noFilter",
+    "link": "https://www.roblox.com/games/16732694052/"
+  },
+  {
+    "title": "Blue Lock: Rivals",
+    "img": "https://tr.rbxcdn.com/180DAY-c7391837140663c24a50b0248d896296/768/432/Image/Webp/noFilter",
+    "link": "https://www.roblox.com/games/18668065416/"
+  },
+  {
+    "title": "Build A Bopat For Tresure",
+    "img": "https://tr.rbxcdn.com/180DAY-402596886e0b7bf6d82a754e88d72554/384/216/Image/Webp/noFilter",
+    "link": "https://www.roblox.com/games/537413528/"
+  }
+]
