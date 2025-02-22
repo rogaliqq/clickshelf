@@ -16,11 +16,12 @@
     margin-top: 3%;
     margin-left: 3%;
     padding: 2%;
-    height: 90%;
+    height: auto;
     width: 90%;
     background-color: rgb(64, 64, 64);
     border-radius: 6%;
     margin-bottom: 3%;
+    gap: 20px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -28,7 +29,7 @@
 }
 .pole
 {
-    height: 40%;
+    height: 256;
     width: 20%;
     padding: 1.5%;
     border-radius: 10%;
